@@ -18,7 +18,7 @@ SFS helps in eliminate unnecessary data.
 
 # Model Building and Model Selection
 There are different solutions to regression problems such as OLS, Regressor, Random forest, etc. and their metrics are:
-OLS Model –  Significant R2 and Adj. R2 valuesIt suggested with 7 insignificant features
+OLS Model –  Significant R2 and Adj. R2 values.It suggested with 7 insignificant features
 Regression  - Bettered OLS model with R2 value but larger RMSE, MAE as well. 
 Decision Tree – Turned out to be the worst one with highest RMSE (0.77)
 Random Forest Regressor – Best fit model with better R2 and reduced RMSE, MAE scores.
